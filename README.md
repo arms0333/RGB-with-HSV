@@ -7,5 +7,5 @@ can see my work and use it for their own use.
 
 [This is a link to my personal website](https://www.google.com)
 
-Inline-style: 
+
 ![alt text](https://github.com/arms0333/employee-profile/blob/gh-pages/Screen%20Shot%202015-12-07%20at%205.03.23%20PM.png "Logo Title Text 1")
