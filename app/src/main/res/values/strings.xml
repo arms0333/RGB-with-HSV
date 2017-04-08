@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HSVcolorpicker</string>
+    <string name="action_about">About</string>
+    <string name="author">Cody Armstrong (arms033)</string>
+    <string name="hueProgress">HUE: %1d</string>
+    <string name="satProgress">SATURATION: %1d</string>
+    <string name="valProgress">VALUE: %1d</string>
+</resources>
