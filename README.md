@@ -8,8 +8,7 @@ ___
 >This is JAVA programming language built in Android Studios IDE.
 >The program lets the user choose a colour and manipulate the hue, saturation and value.
 
-
-</br>[-->>> A link to my website <<<--](https://www.google.com)
+[-->>> A link to my website <<<--](https://www.google.com)
 
 
 ![](https://github.com/arms0333/RGB-with-HSV/blob/master/images/Screenshot_1491673713.png
