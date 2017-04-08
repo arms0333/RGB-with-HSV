@@ -1,7 +1,7 @@
 # RGB with progress bars to change Hue, Saturation and Value
 
 Author: C. Armstrong III
-
+___
 
 >This was a class project from my third semester of College.
 >I decided to use this for job networking and for people to use my code as they wish.
