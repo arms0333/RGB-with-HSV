@@ -1,7 +1,7 @@
 # RGB with progress bars to change Hue, Saturation and Value
 
 Author: C. Armstrong III
-[-->>> A link to my website <<<--](https://www.google.com)
+[-->>> A link to my website <<<--](https://arms0333.github.io)
 ___
 
 >This was a class project from my third semester of College.
